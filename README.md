@@ -7,6 +7,17 @@ Calculador de Impostos</h1>
 
 ## :memo: Descrição do Projeto: 
   Criar um projeto utilizando _Design Patters_ com _Java Puro/Spring_.
+  
+## 🗨️ Impostos que coloquei: 
+
+*Entrada: 500.0*
+
+- [x] ICMS [0.1%]
+- [x] Mercury [0.6%]
+
+<p align="center">
+ <img src="https://i.ibb.co/Dfk0r11/imagem-2022-05-30-164300862.png" />
+</p>
     
 ## :wrench: Design Patterns estudados: 
 -   Singleton
